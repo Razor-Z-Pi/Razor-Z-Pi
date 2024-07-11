@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif" width="100"/>
+  <img src="https://i.pinimg.com/564x/24/37/cd/2437cd3d3e4bd252936219304808709a.jpg" width="500"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Razor-Z-Pi&style=flat-square&color=blue" alt=""/>
