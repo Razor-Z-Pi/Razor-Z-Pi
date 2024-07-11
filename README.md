@@ -46,4 +46,4 @@ I love programming, coding and development, as well as eating and sleeping, and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Razor-Z-Pi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Razor-Z-Pi)](https://github.com/anuraghazra/github-readme-stats)
