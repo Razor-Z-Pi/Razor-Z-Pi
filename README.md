@@ -41,7 +41,8 @@ I love programming, coding and development, as well as eating and sleeping, and 
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Razor-Z-Pi&theme=gruvbox)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="footer" align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Razor-Z-Pi&theme=gruvbox)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
