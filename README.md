@@ -1,16 +1,18 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/48/1b/2a/481b2a6fb860882fcb91e29cf2795a26.jpg" width="300"/>
-  <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=Razor-Z-Pi&style=for-the-badge&color=orange" alt=""/>
-  </div>
-  <h1>
-    Good day to you all!!!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div align="center">
-    <img src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif" width="600" height="300"/>
-  </div>
-</div
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA!+%F0%9F%91%8B;Я+Razor-Z-Pi;Fullstack+%2F+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif" width="600" height="300" alt="Coding gif"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Razor-Z-Pi&style=for-the-badge&color=0891b2&label=ПРОФАЙЛ+ПОСЕТИЛИ" alt="Profile views"/>
+</div>
+
+<br/>
+
+<div align="left">
 
 ### :man_technologist: About Me :
 
@@ -30,19 +32,11 @@ I love programming, coding and development, as well as eating and sleeping, and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" **alt="MariaDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="MS SQL" **alt="MS SQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Razor-Z-Pi&theme=gruvbox)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
