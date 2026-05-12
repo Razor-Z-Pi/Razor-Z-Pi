@@ -7,7 +7,7 @@
   
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    Привет, я Razor-Z-Pi!
+    Hi, i am Razor-Z-Pi!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   </h1>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 Обо мне
+## About me
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Programming"/>
     </td>
     <td width="50%">
-      <h3>✨ Кто я?</h3>
+      <h3>About me</h3>
       <ul>
         <li>I love <strong>programming</strong>, coding and development</li>
         <li>A professional eater and a sleepyhead in his spare time away from coding</li>
