@@ -11,7 +11,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   </h1>
 
-  <img src="https://komarev.com/ghpvc/?username=Razor-Z-Pi&style=flat-square&color=4ECDC4" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Razor-Z-Pi&style=for-the-badge&color=orange" alt="Profile views"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Game+Dev+Dreamer+%7C+Creative+Coder;Eating+%E2%8B%85+Sleeping+%E2%8B%85+Coding+%E2%8B%85+Repeat" alt="Typing SVG" />
