@@ -39,7 +39,7 @@
         <li>I am constantly learning new things and experimenting!!!(≧◡≦)</li>
       </ul>
       <blockquote>
-        <p>«"Code is poetry written in logic»</p>
+        <p>«Code is poetry written in logic»</p>
       </blockquote>
     </td>
   </tr>
