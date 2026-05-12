@@ -54,7 +54,10 @@
   <img src="https://skillicons.dev/icons?i=react,redux,html,css,js,materialui" alt="Frontend"/>
   
   <h3>Backend and Databases</h3>
-  <img src="https://skillicons.dev/icons?i=php,python,js,cs,cpp,mysql,mssqlserver,mariadb,posgresql,sqlite" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=php,python,js,cs,cpp,mysql,sqlite,postgres,laravel,wordpress" alt="Backend"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" width="48" height="48" style="margin: 0 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" width="48" height="48" style="margin: 0 5px;"/>
   
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,vscode" alt="Tools"/>
@@ -65,9 +68,10 @@
 ## Statistics GitHub
 
 <div align="center">
+<!-- Статистика через GitHub Stats Alternative -->
   <a href="https://github.com/Razor-Z-Pi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Razor-Z-Pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Razor-Z-Pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&text_color=FFFFFF"/>
   </a>
 </div>
 
