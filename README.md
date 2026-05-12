@@ -21,38 +21,6 @@
 
 <br/>
 
-<div align="left">
-
-### :man_technologist: About Me :
-
-I love programming, coding and development, as well as eating and sleeping, and of course playing games. I often do creative and technical things. Looking for inspiration in different things and people. I'm an adventurous programmer.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" **alt="MariaDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="MS SQL" **alt="MS SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-</div>
-
----
-
-
 ---
 
 ## 🧑‍💻 Обо мне
@@ -65,14 +33,13 @@ I love programming, coding and development, as well as eating and sleeping, and 
     <td width="50%">
       <h3>✨ Кто я?</h3>
       <ul>
-        <li>🔥 Обожаю <strong>программирование</strong>, создание игр и веб-разработку</li>
-        <li>🎨 Творю на стыке <strong>дизайна и технологий</strong></li>
-        <li>🍕 Профессиональный едок и соня в свободное от кода время</li>
-        <li>🎮 Играю в игры для вдохновения (и удовольствия!)</li>
-        <li>🚀 Постоянно учусь новому и экспериментирую</li>
+        <li>I love <strong>programming</strong>, coding and development</li>
+        <li>A professional eater and a sleepyhead in his spare time away from coding</li>
+        <li>I play games for inspiration (and fun!!!)</li>
+        <li>I am constantly learning new things and experimenting!!!(≧◡≦)</li>
       </ul>
       <blockquote>
-        <p>«Код — это поэзия, написанная логикой»</p>
+        <p>«"Code is poetry written in logic»</p>
       </blockquote>
     </td>
   </tr>
@@ -80,22 +47,22 @@ I love programming, coding and development, as well as eating and sleeping, and 
 
 ---
 
-## ⚡ Технологический стек
+## Tech stack
 
 <div align="center">
-  <h3>🎨 Frontend</h3>
+  <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,redux,html,css,js,materialui" alt="Frontend"/>
   
-  <h3>⚙️ Backend & Базы данных</h3>
-  <img src="https://skillicons.dev/icons?i=php,python,java,cs,cpp,mysql,sqlite" alt="Backend"/>
+  <h3>Backend and Databases</h3>
+  <img src="https://skillicons.dev/icons?i=php,python,js,cs,cpp,mysql,mssqlserver,mariadb,posgresql,sqlite" alt="Backend"/>
   
-  <h3>🛠 Инструменты</h3>
-  <img src="https://skillicons.dev/icons?i=git,ubuntu,linux,bash,vscode" alt="Tools"/>
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,vscode" alt="Tools"/>
 </div>
 
 ---
 
-## 📊 Статистика GitHub
+## Statistics GitHub
 
 <div align="center">
   <a href="https://github.com/Razor-Z-Pi">
@@ -116,7 +83,7 @@ I love programming, coding and development, as well as eating and sleeping, and 
 
 ---
 
-## 🏆 Трофеи профиля
+## &#127942; Profile Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Razor-Z-Pi&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
@@ -124,43 +91,11 @@ I love programming, coding and development, as well as eating and sleeping, and 
 
 ---
 
-## 🌟 Сейчас учусь / интересуюсь
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,nodejs,docker,threejs,blender" alt="Learning"/>
-</div>
-
----
-
-## 🎵 Продуктивность + музыка
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1A1A2E&interchange=true&bar_color=4ECDC4&bar_color_cover=true" alt="Spotify"/>
-</div>
-
----
-
-## 🤝 Связь со мной
-
-<div align="center">
-  <a href="https://t.me/your_telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://discord.com/users/your_discord">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer" width="100%" alt="Footer"/>
   
-  <p>⭐️ От <strong>Razor-Z-Pi</strong> с ❤️</p>
-  <p>«Делай то, что любишь, и люби то, что делаешь»</p>
+  <p>From<strong>Razor-Z-Pi</strong> with &#128150;</p>
+  <p>«Do what you love and love what you do»</p>
   
   <!-- Змейка коммитов -->
   <picture>
