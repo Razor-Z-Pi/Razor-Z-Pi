@@ -71,6 +71,7 @@
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Razor-Z-Pi&theme=tokyonight"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Razor-Z-Pi&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razor-Z-Pi&theme=tokyonight" width="100%"/>
 </div>
 
 <!-- GitHub Streak с кастомным дизайном -->
