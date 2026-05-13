@@ -68,12 +68,9 @@
 ## Statistics GitHub
 
 <div align="center">
-<!-- Статистика через GitHub Stats Alternative -->
 <div align="center">
-  <a href="https://github.com/Razor-Z-Pi">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Razor-Z-Pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Razor-Z-Pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&text_color=FFFFFF&cache_seconds=1800"/>
-  </a>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Razor-Z-Pi&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Razor-Z-Pi&theme=tokyonight"/>
 </div>
 
 <!-- GitHub Streak с кастомным дизайном -->
