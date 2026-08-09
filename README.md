@@ -88,8 +88,16 @@
 
 ## &#127942; Profile Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Razor-Z-Pi&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/_Stars-42-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
+  <img src="https://img.shields.io/badge/_Commits-512-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E"/>
+  <img src="https://img.shields.io/badge/_Repos-15-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
+  <img src="https://img.shields.io/badge/_Forks-23-red?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E"/>
+  <img src="https://img.shields.io/badge/_Followers-128-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/_Streak-15_days-orange?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1A1A2E"/>
+  <img src="https://img.shields.io/badge/_Contributions-256-cyan?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
+  <img src="https://img.shields.io/badge/_Issues-12-lightgrey?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
 </div>
 
 ---
