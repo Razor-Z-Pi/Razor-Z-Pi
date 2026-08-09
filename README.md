@@ -94,41 +94,47 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=%F0%9F%8F%86+Achievements+Unlocked+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 
+  <br><br>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-  <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 30px 0;">
+  <br><br>
+
+  <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
     <div style="background: linear-gradient(135deg, #FF6B6B, #ee5a24); padding: 20px 30px; border-radius: 25px; box-shadow: 0 15px 30px rgba(0,0,0,0.4); text-align: center; min-width: 130px;">
-      <img src="https://media.giphy.com/media/3o7TKoWXm3okOLLt7y/giphy.gif" width="45" height="45" style="margin-bottom: 8px;"/>
+      <img src="https://media.giphy.com/media/3o7TKoWXm3okOLLt7y/giphy.gif" width="45" height="45">
       <br>
-      <span style="font-size: 2em; font-weight: bold; color: white; text-shadow: 0 2px 10px rgba(0,0,0,0.3);">42</span>
+      <span style="font-size: 2em; font-weight: bold; color: white;">42</span>
       <br>
-      <span style="font-size: 1.1em; color: #ffeaa7; letter-spacing: 1px;">Stars</span>
+      <span style="font-size: 1.1em; color: #ffeaa7;">Stars</span>
     </div>
 
     <div style="background: linear-gradient(135deg, #4ECDC4, #2ecc71); padding: 20px 30px; border-radius: 25px; box-shadow: 0 15px 30px rgba(0,0,0,0.4); text-align: center; min-width: 130px;">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45" height="45" style="margin-bottom: 8px;"/>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45" height="45">
       <br>
-      <span style="font-size: 2em; font-weight: bold; color: white; text-shadow: 0 2px 10px rgba(0,0,0,0.3);">512</span>
+      <span style="font-size: 2em; font-weight: bold; color: white;">512</span>
       <br>
-      <span style="font-size: 1.1em; color: #d0f0c0; letter-spacing: 1px;">Commits</span>
+      <span style="font-size: 1.1em; color: #d0f0c0;">Commits</span>
     </div>
 
     <div style="background: linear-gradient(135deg, #9B59B6, #8e44ad); padding: 20px 30px; border-radius: 25px; box-shadow: 0 15px 30px rgba(0,0,0,0.4); text-align: center; min-width: 130px;">
-      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45" height="45" style="margin-bottom: 8px;"/>
+      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45" height="45">
       <br>
-      <span style="font-size: 2em; font-weight: bold; color: white; text-shadow: 0 2px 10px rgba(0,0,0,0.3);">15</span>
+      <span style="font-size: 2em; font-weight: bold; color: white;">15</span>
       <br>
-      <span style="font-size: 1.1em; color: #e8d5f5; letter-spacing: 1px;">Repos</span>
+      <span style="font-size: 1.1em; color: #e8d5f5;">Repos</span>
     </div>
 
     <div style="background: linear-gradient(135deg, #3498db, #9b59b6); padding: 20px 30px; border-radius: 25px; box-shadow: 0 15px 30px rgba(0,0,0,0.4); text-align: center; min-width: 130px;">
-      <img src="https://media.giphy.com/media/xT0xeJpncsQbKZ0AN2/giphy.gif" width="45" height="45" style="margin-bottom: 8px;"/>
+      <img src="https://media.giphy.com/media/xT0xeJpncsQbKZ0AN2/giphy.gif" width="45" height="45">
       <br>
-      <span style="font-size: 2em; font-weight: bold; color: white; text-shadow: 0 2px 10px rgba(0,0,0,0.3);">128</span>
+      <span style="font-size: 2em; font-weight: bold; color: white;">128</span>
       <br>
-      <span style="font-size: 1.1em; color: #d5e8f5; letter-spacing: 1px;">Followers</span>
+      <span style="font-size: 1.1em; color: #d5e8f5;">Followers</span>
     </div>
   </div>
+
+  <br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
