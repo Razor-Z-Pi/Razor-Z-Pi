@@ -88,16 +88,46 @@
 
 ## &#127942; Profile Trophies
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/_Stars-42-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
-  <img src="https://img.shields.io/badge/_Commits-512-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E"/>
-  <img src="https://img.shields.io/badge/_Repos-15-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
-  <img src="https://img.shields.io/badge/_Forks-23-red?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E"/>
-  <img src="https://img.shields.io/badge/_Followers-128-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/_Streak-15_days-orange?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1A1A2E"/>
-  <img src="https://img.shields.io/badge/_Contributions-256-cyan?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
-  <img src="https://img.shields.io/badge/_Issues-12-lightgrey?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/>
+<div align="center">
+  <!-- Анимированный заголовок -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Achievements+Unlocked" alt="Typing SVG" />
+  </a>
+  
+  <!-- Разделитель с анимацией -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <!-- Блок достижений -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+    <div style="background: linear-gradient(135deg, #FF6B6B, #4ECDC4); padding: 15px 25px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); text-align: center; min-width: 120px;">
+      <img src="https://media.giphy.com/media/3o7TKoWXm3okOLLt7y/giphy.gif" width="40" height="40" style="margin-bottom: 5px;"/>
+      <br>
+      <span style="font-size: 1.5em; font-weight: bold; color: white;">42</span>
+      <br>
+      <span style="color: #f0f0f0;">Stars</span>
+    </div>
+    <div style="background: linear-gradient(135deg, #4ECDC4, #2ECC71); padding: 15px 25px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); text-align: center; min-width: 120px;">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40" height="40" style="margin-bottom: 5px;"/>
+      <br>
+      <span style="font-size: 1.5em; font-weight: bold; color: white;">512</span>
+      <br>
+      <span style="color: #f0f0f0;">Commits</span>
+    </div>
+    <div style="background: linear-gradient(135deg, #9B59B6, #FF6B6B); padding: 15px 25px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); text-align: center; min-width: 120px;">
+      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="40" height="40" style="margin-bottom: 5px;"/>
+      <br>
+      <span style="font-size: 1.5em; font-weight: bold; color: white;">15</span>
+      <br>
+      <span style="color: #f0f0f0;">Repos</span>
+    </div>
+    <div style="background: linear-gradient(135deg, #3498DB, #9B59B6); padding: 15px 25px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); text-align: center; min-width: 120px;">
+      <img src="https://media.giphy.com/media/xT0xeJpncsQbKZ0AN2/giphy.gif" width="40" height="40" style="margin-bottom: 5px;"/>
+      <br>
+      <span style="font-size: 1.5em; font-weight: bold; color: white;">128</span>
+      <br>
+      <span style="color: #f0f0f0;">Followers</span>
+    </div>
+  </div>
 </div>
 
 ---
