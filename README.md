@@ -84,18 +84,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Razor-Z-Pi&theme=tokyo-night&bg_color=1A1A2E&color=4ECDC4&line=FF6B6B&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
----
+<!-- Разделитель с анимацией -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &#127942; Profile Trophies
 
 <div align="center">
-  <!-- Анимированный заголовок -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Achievements+Unlocked" alt="Typing SVG" />
-  </a>
-  
-  <!-- Разделитель с анимацией -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
   <!-- Блок достижений -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
