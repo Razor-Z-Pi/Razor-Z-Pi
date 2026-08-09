@@ -89,7 +89,7 @@
 ## &#127942; Profile Trophies
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razor-Z-Pi&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Razor-Z-Pi&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
 </div>
 
 ---
