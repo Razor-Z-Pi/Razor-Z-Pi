@@ -51,37 +51,37 @@
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,jquery,ts,vue,nuxtjs,react,redux,nextjs,bootstrap,tailwind,vuetify,materialui,d3,threejs" alt="Frontend"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,jquery,ts,vue,nuxtjs,react,redux,nextjs,bootstrap,tailwind,vuetify,materialui,d3,threejs" alt="Frontend" style="margin: 0"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger" width="48" height="48" alt="Frontend"/>
   
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=php,python,r,js,cs,cpp,nodejs,express,laravel,symfony,django,flask,dotnet,haxe,pytorch" alt="Backend"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" title="FastAPI" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/yii/default.svg" title="Yii" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cakephp/default.svg" title="Cakephp" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=php,python,r,js,cs,cpp,nodejs,express,laravel,symfony,django,flask,dotnet,haxe" alt="Backend"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" title="FastAPI" width="48" height="48" alt="Backend"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/yii/default.svg" title="Yii" width="48" height="48" alt="Backend"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cakephp/default.svg" title="Cakephp" width="48" height="48" alt="Backend"/>
   
   <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,mongodb,redis" alt="Backend"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" width="48" height="48" style="margin: 0 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" width="48" height="48" style="margin: 0 5px;"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,mongodb,redis" alt="Databases"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" width="48" height="48" style="margin: 0 5px;" alt="Databases"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" width="48" height="48" style="margin: 0 5px;" alt="Databases"/>
 
   <h3>ML | NLP | AI | Data Science | Data analysis</h3>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Backend"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" title="NumPy" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" title="Pandas" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ML | NLP | AI | Data Science | Data analysis"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" title="NumPy" width="48" height="48" alt="ML | NLP | AI | Data Science | Data analysis"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" title="Pandas" width="48" height="48" alt="ML | NLP | AI | Data Science | Data analysis"/>
 
   <h3>CMS && Engine</h3>
-  <img src="https://skillicons.dev/icons?i=wordpress," alt="Backend"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/joomla/default.svg" title="Joomla" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/october-cms/default.svg" title="October-cms" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/modx/default.svg" title="Modx" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/phpbb/default.svg" title="phpBB" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drupal/default.svg" title="Drupal" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tilda-publishing/default.svg" title="Tilda" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="CMS | Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/joomla/default.svg" title="Joomla" width="48" height="48" alt="CMS | Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/october-cms/default.svg" title="October-cms" width="48" height="48" alt="CMS | Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/modx/default.svg" title="Modx" width="48" height="48" alt="CMS | Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/phpbb/default.svg" title="phpBB" width="48" height="48" alt="CMS | Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drupal/default.svg" title="Drupal" width="48" height="48" alt="CMS | Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tilda-publishing/default.svg" title="Tilda" width="48" height="48" alt="CMS | Engine"/>
   
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,mint,linux,vim,bash,windows,powershell,docker,arduino,vscode,visualstudio,anaconda,androidstudio,atom,eclipse,sublime,gulp,babel,nginx,npm,yarn,postman,figma" alt="Tools"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" title="Vite" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" title="Vite" width="48" height="48" alt="Tools"/>
 </div>
 
 ---
